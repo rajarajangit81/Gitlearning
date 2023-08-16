@@ -1,0 +1,52 @@
+ecommerce project
+
+following micoservice architecture
+
+previously monolytic to micoservice
+
+
+Git as source code management
+jenkins as CICD
+Docker for containersation
+
+Java based project
+
+infrastructure for dev ,testing and production servers
+
+docker file
+
+challeges
+
+deploying failed bank rank ---code is working
+
+branching strategies--PR to staging
+
+main or master branch
+
+
+local to central
+
+
+git client---genertae token from git hub
+
+ linux version ---amazon (yum) and ubuntu (apt)
+
+wget download 
+curl download and connection
+
+awk--used to 
+
+df -h
+
+add multiple users in group
+
+custom
+
+==========
+
+Jenkins master slave
+
+
+
+
+
